@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Ms.Rizzo's Travel Page</title>
+
+        <style>
+            h2 {
+                color:  purple;
+
+                font: italic 1.5em cursive;
+            }
+
+            #exampleid {
+                background-color: pink;
+                color: white;
+                font-family: "Arial", serif;
+                font-style: italic;
+            }
+
+            .value{
+                color: lightblue;
+            }
+            .word{
+                font-weight: bold;
+                color: blue;
+            } 
+            .paragraph {
+                width: 70%;
+                height: 200px;
+                overflow: auto;
+            }
+
+            .image1 {
+                position: ;
+            }
+
+            .image2 {
+                position: ;
+            }
+
+            .border {
+                margin: 20px 40px 30px 15px;
+                padding-left: 20px;
+                border: 20px dotted red;
+            }
+
+        </style>
+
+    </head>
+
+</html>
